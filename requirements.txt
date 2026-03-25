@@ -1,0 +1,8 @@
+# Simulador DPF — Dependencias Python
+# Para Raspberry Pi 4 con Raspberry Pi OS (Bullseye / Bookworm)
+#
+# Las dependencias principales (tkinter) vienen incluidas con Python.
+# No se requieren paquetes adicionales de Python (Pillow es opcional).
+#
+# Instalar con:  pip install -r requirements.txt
+# (Actualmente sin dependencias externas — solo stdlib de Python 3)
